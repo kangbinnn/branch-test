@@ -2,4 +2,4 @@ first edition
 hello my name is Kim gyeongbin
 third edition
 issue resolved
-hotfix my solution
+hotfix team's solution
